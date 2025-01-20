@@ -40,9 +40,3 @@ After logging in, the dashboard offers the following options:
   - The report includes the number of days a student was present or absent.
 
 ---
-
-## Installation and Setup
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/attendance-management-system.git
